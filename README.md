@@ -1,4 +1,4 @@
-# SPSHIA – IKEv1 Aggressive Mode Password Recovery
+# IKEv1 Aggressive Mode Password Recovery
 
 Лабораторная работа по восстановлению пароля в протоколе IKEv1 типа Aggressive Mode.
 
